@@ -19,7 +19,7 @@ using std::string;
  * 7 pointer
  * 8 cout overload
  * 9 lambda
- * 10 smart pointer
+ * 10 smart pointer and decltype
 */
 
 #define EXECING 5
